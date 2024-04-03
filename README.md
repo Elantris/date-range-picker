@@ -12,3 +12,6 @@ cd date-range-picker
 npm install
 npm run dev
 ```
+
+## Preview
+https://elantris.github.io/date-range-picker/
