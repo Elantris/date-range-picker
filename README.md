@@ -1,7 +1,8 @@
 # Date Range Picker
 
 ## Dependencies
-- [Normalize.css v8.0.1](https://github.com/necolas/normalize.css)
+- [Vite](https://vitejs.dev/) - React build system
+- [normalize.css v8.0.1](https://github.com/necolas/normalize.css)
 - [Luxon v3.3.4](https://moment.github.io/luxon/)
 
 ## Scripts

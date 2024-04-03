@@ -12,3 +12,13 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+main {
+  margin: 4rem auto;
+  width: 30rem;
+  max-width: 100vw;
+}
+
+input {
+  margin-bottom: 2rem;
+}
